@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Artificial Intelligence and Problem Solving 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HorizonAks)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bindraankur)](https://git.io/streak-stats)
 
 📫 How to reach me ...
 
